@@ -1,4 +1,4 @@
-pragma solidity ^0.4.10;
+pragma solidity >0.4.10 <0.6.0;
 
 contract MessageStorage {
     string storedData;
