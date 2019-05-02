@@ -1,4 +1,4 @@
-pragma solidity >0.4.22 <0.6.0;
+pragma solidity >=0.4.24 <0.6.0;
 
 // "class" TweetStorage
 contract TweetStorage {
